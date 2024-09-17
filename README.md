@@ -1,2 +1,3 @@
 # bookbot
-boot.dev project
+
+Doing stuff with books!
