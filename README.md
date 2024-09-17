@@ -1,3 +1,1 @@
-# bookbot
-
-My First project
+my first project
