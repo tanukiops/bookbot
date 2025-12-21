@@ -1,0 +1,4 @@
+/books
+.venv
+.zed/
+__pycache__/
